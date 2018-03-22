@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF6C04D",
+    "servers": [
+      {
+        "server_address": "192.168.137.1",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.7316219,
+    "ref_longitude": -84.28729420000002,
+    "ref_altitude": 971,
+    "contact_email": "bradford.rust@enersys.com",
+    "description": "Richmond Shop Floor Data Collection LoRa Gateway"
+  }
+}
